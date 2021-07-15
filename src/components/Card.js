@@ -2,7 +2,7 @@
 
 const Card = () => {
     return (
-        <div className="card" style={{width: "18rem"}}>
+        <div className="card  mt-3 mt-xl-0" style={{width: "18rem"}}>
           <img src="https://www.holoweb.net/~liam/pictures/2007-06-29-san-vivaldo/pages/img_4979/img_4979-300x200.jpg" className="card-img-top" alt="..."/>
           <div className="card-body">
             <h5 className="card-title">Card title</h5>

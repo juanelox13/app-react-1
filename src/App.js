@@ -10,7 +10,7 @@ function App() {
     <div className="container-fluid vh-100">
       <Navbar/>
       <Title/>
-      <div className="cards d-flex justify-content-around">
+      <div className="cards d-flex justify-content-around flex-wrap">
         <Card/>
         <Card/>
         <Card/>
